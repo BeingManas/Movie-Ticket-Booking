@@ -1,0 +1,34 @@
+body {
+    background-image: url('../images/homepage.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.homeimagetext {
+    margin-top: 10%;
+}
+.jumbotron {
+    background-color: transparent;
+    color: white;
+    text-shadow: 0 0 3px black;
+    flex: 1;
+}
+.main-text {
+    font-weight: bolder;
+}
+
+.orange-box {
+    color: #FF9933;
+}
+
+.blue-box {
+    color: #006ef5;
+}
+
+.green-box {
+    color: #228B22;
+}
+
+.logo-text {
+    font-family: 'Pacifico';
+}
